@@ -19,4 +19,4 @@
 
 You can play it from here in your Web browser by clicking RUN:
 
-[<img alt="Play Button" src="https://user-images.githubusercontent.com/122994130/214109351-241103e3-a93f-47e8-8510-a56695218d9f.png" />](https://replit.com/@93ToXic93/RockPaperScissors-Game-by-ToXic#Main.cs)
+[<img alt="Play Button" src="https://user-images.githubusercontent.com/122994130/214110847-64ef60a3-bd07-4262-8426-496be4d4343f.png" />](https://replit.com/@93ToXic93/RockPaperScissors-Game-by-ToXic#Main.cs)
