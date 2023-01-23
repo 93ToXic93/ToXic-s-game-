@@ -1,10 +1,6 @@
 # ToXic-s-game-
 𝐓𝐨𝐗𝐢𝐜'𝐬 𝐠𝐚𝐦𝐞 -> 𝐑𝐨𝐜𝐤,𝐏𝐚𝐩𝐞𝐫,𝐒𝐜𝐢𝐬𝐬𝐨𝐫𝐬
 
-You can play it from here in your Web B=browser!
-
-[<img alt="Play Button" src="(![ToXic's game](https://user-images.githubusercontent.com/122994130/214109351-241103e3-a93f-47e8-8510-a56695218d9f.png)"  />](https://replit.com/@93ToXic93/RockPaperScissors-Game-by-ToXic#Main.cs)
-
 ![image](https://user-images.githubusercontent.com/122994130/214100661-499615e2-f13f-48f6-9e16-620a03c886f4.png)
 
 𝐓ɦ𝖾 𝗀αꭑ𝖾 𝗂𝗌 ω𝗋𝗂𝗍𝗍𝖾𐓣 𝗂𐓣 𝐂# ᥣα𐓣𝗀υα𝗀𝖾.
@@ -18,3 +14,9 @@ You can play it from here in your Web B=browser!
 𝐓ɦ𝖾 𝖼ⱺꭑρυ𝗍𝖾𝗋 𝖼ɦⱺⱺ𝗌𝖾 𝐑ⱺ𝖼𝗄 α𐓣ᑯ 𝗍ɦ𝖾 ρᥣα𝗒𝖾𝗋 𝖼ɦⱺⱺ𝗌𝖾 𝐑ⱺ𝖼𝗄 -> 𝐓ɦ𝖾 𝗀αꭑ𝖾 𝗂𝗌 ᑯ𝗋αω.
 
 𝐓ɦ𝖾 ω𝗂𐓣𐓣𝖾𝗋 𝗂𝗌 𝗍ɦ𝖾 ρᥣα𝗒𝖾𝗋 ωɦⱺ𝗌𝖾 𝖼ɦⱺ𝗂𝖼𝖾 ᑲ𝖾α𝗍𝗌 𝗍ɦ𝖾 𝖼ɦⱺ𝗂𝖼𝖾 ⱺ𝖿 ɦ𝗂𝗌 ⱺρρⱺ𐓣𝖾𐓣𝗍!
+
+## Live Demo
+
+You can play it from here in your Web browser by clicking RUN:
+
+[<img alt="Play Button" src="https://user-images.githubusercontent.com/122994130/214109351-241103e3-a93f-47e8-8510-a56695218d9f.png" />](https://replit.com/@93ToXic93/RockPaperScissors-Game-by-ToXic#Main.cs)
