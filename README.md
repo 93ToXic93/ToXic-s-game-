@@ -1,7 +1,9 @@
 # ToXic-s-game-
 𝐓𝐨𝐗𝐢𝐜'𝐬 𝐠𝐚𝐦𝐞 -> 𝐑𝐨𝐜𝐤,𝐏𝐚𝐩𝐞𝐫,𝐒𝐜𝐢𝐬𝐬𝐨𝐫𝐬
 
-[<img alt="Play Button" src=![ToXic's game](https://user-images.githubusercontent.com/122994130/214107031-04e73f0a-ec29-4303-91ab-8ab717a17d1d.png)/>]https://replit.com/@93ToXic93/RockPaperScissors-Game-by-ToXic#Main.cs
+You can play it from here in your Web B=browser!
+
+[<img alt="Play Button" src="(![ToXic's game](https://user-images.githubusercontent.com/122994130/214109351-241103e3-a93f-47e8-8510-a56695218d9f.png)"  />](https://replit.com/@93ToXic93/RockPaperScissors-Game-by-ToXic#Main.cs)
 
 ![image](https://user-images.githubusercontent.com/122994130/214100661-499615e2-f13f-48f6-9e16-620a03c886f4.png)
 
